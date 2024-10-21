@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">t4a1-Alternativos</string>
+    <string name="videojuego">Game</string>
+    <string name="iniciar_juego">Start Game</string>
+    <string name="configurar_juego">Settings Game</string>
+    <string name="ver_ranking">Ranking</string>
+    <string name="acerca_de">About</string>
+    <string name="salir">Exit</string>
+</resources>
